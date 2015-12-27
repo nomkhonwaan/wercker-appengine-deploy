@@ -1,0 +1,7 @@
+name: appengine-deploy
+version: 1.0.0
+description: Deploy your application to Google AppEngine using refresh token
+properties:
+  token:
+    type: string
+    required: true
