@@ -2,6 +2,8 @@
 
 This project is Wercker Steps for deploy your application to Google AppEngine by using refresh token.
 
+[![wercker status](https://app.wercker.com/status/22ba0e1ed6507254b8be7ce1e349335e/m "wercker status")](https://app.wercker.com/project/bykey/22ba0e1ed6507254b8be7ce1e349335e)
+
 
 ## Table of Contents
 
