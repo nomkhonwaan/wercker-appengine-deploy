@@ -24,6 +24,6 @@ fi
 cd $WERCKER_SOURCE_DIR
 
 debug "Starting deployment"
-$WERCKER_CACHE_DIR/go_appengine/appcfg.py update "$WERCKER_SOURCE_DIR" --oauth2_refresh_token="$WERCKER_APPENGINE_DEPLOY_OAUTH_TOKEN"
+$WERCKER_CACHE_DIR/go_appengine/appcfg.py update "$WERCKER_SOURCE_DIR" --oauth2_refresh_token="$WERCKER_APPENGINE_DEPLOY_TOKEN"
 
 success "Finished"
