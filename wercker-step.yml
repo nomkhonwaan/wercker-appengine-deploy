@@ -1,5 +1,5 @@
 name: appengine-deploy
-version: 1.0.1
+version: 1.0.2
 description: Deploy your application to Google AppEngine using refresh token
 properties:
   token:
